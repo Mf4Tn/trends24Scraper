@@ -13,7 +13,7 @@ trends24Scraper is a lightweight Python API built using Flask to scrape the late
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/trends24Scraper.git
+   git clone https://github.com/Mf4Tn/trends24Scraper.git
    ```
 
 2. **Install Dependencies:**
